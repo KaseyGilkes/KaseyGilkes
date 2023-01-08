@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @KaseyGilkes
 - 👀 I’m interested in coding as a hobby but outside of coding I love staying active through CrossFit, playing guitar, video games and reading
-- 🌱 I’m currently learning the absolute basics of c# and unity 
+- 🌱 I’m currently learning the absolute basics through CS50x 
+
 
 
 <!---
